@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991168663316",
+    "firebase_url": "https://lge2020.firebaseio.com",
+    "project_id": "lge2020",
+    "storage_bucket": "lge2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991168663316:android:906b077781887acb137c01",
+        "android_client_info": {
+          "package_name": "ecp.haider.lge2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991168663316-iipehk0jrbrcj17cdoht73cn5vpjb2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcojqEi-_EY6SMWOOD6uPe7Jt2yrysohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991168663316-iipehk0jrbrcj17cdoht73cn5vpjb2kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
